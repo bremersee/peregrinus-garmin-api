@@ -1,2 +1,2 @@
-# peregrinus-garmin-api
-peregrinus-garmin-api
+# peregrinus-gpx-api
+peregrinus-gpx-api
